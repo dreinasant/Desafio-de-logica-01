@@ -7,4 +7,5 @@ console.log(numero + anoAtual)
 console.log( "Estou mexendo no console.log" )
 
 let quartaFeira = true
+console.log(quartaFeira)
 console.log('O valor booleano é ${boolean}')
